@@ -1,0 +1,116 @@
+h1,h{
+    font-size: 40px;
+    color:green;
+    text-align: left;
+    margin: auto;
+    padding: 10px;
+    
+    
+  }
+    
+  
+  
+
+  h1:hover {
+    color: blue;
+  }
+
+h2{
+  font-size: 20px;
+  color:brown;
+  text-align: left;
+  
+}
+
+h2:hover {
+  color:green ;
+}
+  
+  img {
+      float: right;
+      width: 33.33%;
+      padding: 5px;
+      padding-top: 0px;
+  }
+
+  .img2 {
+   
+      float: left;
+      width: 33.33%;
+      padding: 5px;
+      padding-bottom: 10px;
+  }
+
+  .first{
+    font-size: 20px;
+    line-height: 1.5;
+    color: purple;
+  }
+  
+  .description {
+    font-size: 20px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    text-align: left;
+  }
+  body {
+    background-color: rgba(242, 255, 0, 0.796);
+    background-position: center;
+  }
+  
+  .container a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 30px;
+  }
+
+  a:hover {
+    color: red;
+  }
+
+  .search-container {
+    float:left;
+    font-size: 20%;
+    text-align:center;
+    color: black;
+      float: left;
+      padding: 10px 10px;
+      margin-top: 10px;
+      margin-right: 16px;
+      background:none;
+      font-size: 19px;
+      border: black;
+      cursor: pointer;
+    }
+
+    
+  
+
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #ddddddeb;
+  }
+
+  .variety{
+    font-size:30px;
+    font-weight: bolder;
+    color: darkmagenta;
+  }
+  
+  
+ 
